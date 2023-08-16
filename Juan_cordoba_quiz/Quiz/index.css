@@ -1,0 +1,8 @@
+body {
+    margin: auto;
+    width: 640px; 
+    padding: 50px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; 
+    color: #ffffff; 
+    background-image: image-set("https://wallpaperaccess.com/full/1567679.jpg")
+        }
